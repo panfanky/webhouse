@@ -1,0 +1,88 @@
+/**********************************/
+/* a monospace theme for WebHouse */
+/**********************************/
+
+html{
+	font-family:monospace;
+	font-size:14px;
+	line-height:17px;
+	letter-spacing:1.2;
+	background:#222;
+	padding:0;
+	margin:0;
+	width:100%;
+	word-wrap: break-word;
+}
+body{
+	box-sizing:border-box;
+	width:100%;
+	max-width:1200px;
+	margin:0 auto;
+	background:#222;
+	color:#ddd;
+	padding:16px;
+	white-space:pre-wrap;
+}
+a:link{
+	color:#afb9ff;
+}
+a:visited{
+	color:#9190b3;
+}
+.versionswitch{
+	float:right;
+	max-width:30%;
+	font-size:12px;
+	margin:0 0 16px 8px;
+}
+input[name=to]{
+	display:none;
+}
+img{
+	width:100%;
+}
+.imgcont{
+	margin:0 auto;
+	max-width:800px;
+}
+.interpreted img{
+	max-width:200px;
+	max-height:200px;
+}
+.interpreted video, .interpreted audio, .interpreted iframe{
+	max-width:100%;
+}
+.interpreted{
+	white-space:normal;
+	border: 1px solid #ddd;
+	margin:4px auto;
+	padding:16px;
+	max-width:400px;
+	overflow:hidden;
+}
+table.json_ld_table,.json_ld_table th,.json_ld_table td{
+	border:1px solid #222;
+}
+table.json_ld_table{
+	display:none;
+	border-collapse: collapse;	
+	font-size:11px;
+	background:#ddd;
+	color:#222;
+}
+.json_ld_table td{
+	max-width:400px;
+	padding: 4px 8px;
+}
+.og_image_cont{
+	float:left;
+	margin-right:16px;
+}
+/*.unfoldable{
+	height:400px;
+	overflow:hidden;
+}
+.unfoldable:hover{
+	height:auto;
+	max-width:none;
+}*/

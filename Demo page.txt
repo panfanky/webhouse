@@ -1,0 +1,39 @@
+Welcome to WebHouse!
+--------------------
+
+        `'::.
+    _________H ,%%&%,
+   /\     _   \%&&%%&%
+  /  \___/^\___\%&%%&&
+  |  | []   [] |%\Y&%'
+  |  |   .-.   | ||  
+~~@._|@@_|||_@@|~||~~~~~~~~~~~~~
+     `""") )"""`
+	 
+🦄
+
+The source of this file is TXT as you can see through View dry version link on the top (https://whdemo.fanky.eu/?mode=dry).
+
+User can submit custom content by entering URLs on separate lines.
+Some examples:
+
+An image:
+
+https://www.linkpicture.com/q/attic-ted.jpg
+
+A news article:
+
+https://www.frontman.cz/skoro-dospela-kapela
+
+A Vimeo:
+
+https://vimeo.com/169801905
+
+...a youtube...
+
+https://www.youtube.com/watch?v=RRQwn8rmZfo
+
+or a hosted video
+
+http://www.blazni.cz/dl/potkas720.mp4
+
